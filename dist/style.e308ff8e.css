@@ -9,7 +9,9 @@ body {
 
     background: #111;
     overflow: hidden;
+
 }
+
 .Absolute-Center {
     margin: auto;
     position: absolute;
@@ -25,13 +27,21 @@ body {
     z-index: 400;
 }
 #ChristmasTree {
-    position: absolute;
     z-index: 400;
     bottom: 50px;
-    margin: 0 auto;
-    width: 384px;
-    height: 700px;
+    right: 0;
+    width: 462px;
+    height: 576px;
     cursor:pointer;
+}
+@media (max-width: 400px) {
+    #ChristmasTree {
+        position: absolute;
+        margin: 0 auto;
+        width: 384px;
+        height: 700px;
+        cursor:pointer;
+    }
 }
 .PlainTree {
     position: absolute;
@@ -41,9 +51,15 @@ body {
 .decoratedtree {
     position: absolute;
     z-index: 400;
-    width:400px;
-    top:70px;
+
 }
+@media (max-width: 400px) {
+    .decoratedtree {
+        width:400px;
+        top:70px;
+    }
+}
+
 .hideMe {
     visibility: hidden !important;
 }
@@ -54,14 +70,21 @@ body {
 }
 .star {
     position: absolute;
-    margin: 0 auto;
-    top: 25px;
-    left: 155px;
-    width: 100px;
-
+    top: -55px;
+    left: 165px;
     z-index: 600;
     animation: starspin 5s ease infinite;
 }
+
+@media (max-width: 400px) {
+    .star {
+        margin: 0 auto;
+        top: 25px;
+        left: 155px;
+        width: 100px;
+    }
+}
+
 @keyframes starspin {
     from {
         transform: rotate( 0deg );
@@ -80,7 +103,7 @@ body {
 
 
 h1 {
-    font-size: 16vw;
+    font-size: 6.5vw;
     padding-top: 3%;
     font-family: 'Mountains of Christmas', cursive;
     background: -o-linear-gradient(transparent, transparent) !important;
@@ -96,6 +119,12 @@ h1 {
     z-index: 999999;
     -webkit-background-clip: text;
 }
+@media (max-width: 400px) {
+    h1 {
+        font-size: 16vw;
+    }
+}
+
 
 .Gold-Glitter {
     color: gold;
