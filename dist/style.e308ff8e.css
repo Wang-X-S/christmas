@@ -36,10 +36,13 @@ body {
 .PlainTree {
     position: absolute;
     z-index: 300;
+
 }
 .decoratedtree {
     position: absolute;
     z-index: 400;
+    width:400px;
+    top:70px;
 }
 .hideMe {
     visibility: hidden !important;
@@ -52,8 +55,10 @@ body {
 .star {
     position: absolute;
     margin: 0 auto;
-    top: -55px;
-    left: 165px;
+    top: 25px;
+    left: 155px;
+    width: 100px;
+
     z-index: 600;
     animation: starspin 5s ease infinite;
 }
@@ -75,7 +80,7 @@ body {
 
 
 h1 {
-    font-size: 6.5vw;
+    font-size: 16vw;
     padding-top: 3%;
     font-family: 'Mountains of Christmas', cursive;
     background: -o-linear-gradient(transparent, transparent) !important;

@@ -2,30 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d5aeb38-8a0a-498b-a5e7-fd679fe63ddd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.cache/03/e34d6dfecfefd0c872cb1d367e97da.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/16/484d26c82edf59075c305f534124dd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/26/763a4953a92e33a6d50a2b4f8caee4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/57/88fecdd2b8788393b9887cb819a577.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/a5/5e1676c4429fd0271c5fbb36db357e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/e0/ec980d3ea0cf06307940fdc86acbdd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/new-christmas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/style.e308ff8e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/style.e308ff8e.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/style.e308ff8e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/style.e308ff8e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/e0/ec980d3ea0cf06307940fdc86acbdd.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/e0/ec980d3ea0cf06307940fdc86acbdd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.e308ff8e.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.e308ff8e.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608280482857</updated>
       <workItem from="1608280484061" duration="4116000" />
-      <workItem from="1608288499391" duration="1134000" />
+      <workItem from="1608288499391" duration="2487000" />
     </task>
     <servers />
   </component>
